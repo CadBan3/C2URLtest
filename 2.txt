@@ -1,1 +1,1 @@
-http://192.168.0.16:8000/ayo_x64.xthread.bin
+http://192.168.0.16:8000/wowf.bin
